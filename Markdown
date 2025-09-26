@@ -1,0 +1,14 @@
+
+---
+
+## ⚙️ Requirements
+- Python 3.9 or later  
+- Libraries:
+  - [python-docx](https://pypi.org/project/python-docx/)
+  - [openpyxl](https://pypi.org/project/openpyxl/)
+  - [pdfplumber](https://pypi.org/project/pdfplumber/)
+
+Install them with:
+
+```bash
+python -m pip install -r requirements.txt
